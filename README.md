@@ -1,5 +1,5 @@
 <!-- ================= BANNER ================= -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXo0NHB3NWh6Nm5qZXo2aDZtZm9xNzg4Z3JiejJpOHMxbHR1bHhxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ehTciPU84hyLtZkfsE/giphy.gif)" width="100%" />
 
 <h1 align="center">🔥 Hello, I'm Rafa Khoiron Alif 🔥</h1>
 
@@ -49,12 +49,9 @@ I enjoy building web applications locally, testing them securely, and exposing t
 
 ### 🧩 Frameworks & Tools
 <p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---

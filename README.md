@@ -1,16 +1,27 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/raaffell" width="160" style="border-radius:50%" />
+</p>
 
-<!--
-**raaffell/raaffell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">root@raaffell</h1>
+<h3 align="center">Web Developer | Think • Code • Build</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF00&center=true&vCenter=true&lines=whoami;Web+Developer;Learning+Everyday;Think+Like+A+Hacker;Access+Granted" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 whoami
+
+```bash
+$ whoami
+Rafa Khoiron Alif
+
+$ location
+Jambi, Indonesia
+
+$ role
+Web Developer
+
+$ status
+Learning • Building • Improving

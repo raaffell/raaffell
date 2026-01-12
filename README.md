@@ -6,7 +6,7 @@
 <h1 align="center">🔥 Hello, I'm Rafa Khoiron Alif 🔥</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=00E5FF&center=true&vCenter=true&width=1000&lines=Web+Developer;Security+Enthusiast;Local+Server+Explorer;XAMPP+%26+ngrok+User;From+Indonesia;Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=00E5FF&center=true&vCenter=true&width=1000&lines=Web+Developer;Local+Server+Explorer;Backend+Learner;XAMPP+%26+ngrok+User;From+Indonesia;Always+Learning" />
 </p>
 
 <p align="center">
@@ -18,9 +18,13 @@
 ## 👋 About Me
 
 Hi 👋  
-I'm **Rafa Khoiron Alif**, a passionate **Web Developer** with a strong interest in **17 yrs old**, **NN AELL**, and **403**.
+I'm **Rafa Khoiron Alif**, a passionate **Web Developer** from Indonesia.
 
-I enjoy building applications locally, testing them carefully, and exposing them securely for demos and experiments.
+I enjoy building web applications in a **local development environment**, understanding how servers work, and deploying projects safely for demos and testing.
+
+- 🔧 Focused on **local server & backend fundamentals**
+- 🌱 Currently learning **web security basics & deployment**
+- 🚀 Interested in **server-side development and networking**
 
 ---
 
@@ -40,7 +44,7 @@ I enjoy building applications locally, testing them carefully, and exposing them
   <img src="https://img.shields.io/badge/XAMPP-f57c00?style=for-the-badge&logo=apache&logoColor=white" />
 </p>
 
-### 🌐 Tunneling & Networking
+### 🌐 Networking & Tunneling
 <p>
   <img src="https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white" />
 </p>
@@ -58,7 +62,6 @@ I enjoy building applications locally, testing them carefully, and exposing them
 ---
 
 ## 🔗 Social Media
-
 <p align="center">
   <a href="https://github.com/raaffell">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
@@ -73,15 +76,18 @@ I enjoy building applications locally, testing them carefully, and exposing them
 
 ---
 
-## 🔌 Local Development & Deployment Workflow
+## 🔌 Local Development Workflow
 
-I build and test my projects in a **local environment** before exposing them securely for demos or collaboration.
+I prefer developing applications **locally first** to fully understand how systems work before deployment.
 
 ### 🧱 Local Setup
-- OS: **Windows 11**
-- Server: **Apache + PHP + MySQL (XAMPP)**
-- Editor: **VS Code / Visual Studio**
-- Version Control: **GitHub**
+- **OS:** Windows 11  
+- **Server:** Apache, PHP, MySQL (XAMPP)  
+- **Editor:** VS Code / Visual Studio  
+- **Version Control:** Git & GitHub  
 
-```bash
+This approach helps me learn **server behavior, debugging, and deployment flow** more deeply.
 
+---
+
+⭐ Feel free to explore my repositories and follow my learning journey!

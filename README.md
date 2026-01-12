@@ -1,28 +1,76 @@
-<img src="https://images.unsplash.com/photo-1519681393784-d120267933ba" width="100%" />
+<!-- ================= BANNER ================= -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
-# 👋 Hello and Welcome!
+<h1 align="center">🔥 Hello, I'm Rafa Khoiron Alif 🔥</h1>
 
-## 😊 About Me
-Hi, I'm **Rafa Khoiron Alif**  
-💻 Web Developer from Indonesia  
-🚀 Interested in backend, security, and web apps
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Web+Developer;Security+Enthusiast;Local+Server+Explorer;From+Indonesia;Always+Learning" />
+</p>
 
----
-
-## 🔗 My Profiles
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raaffell&label=Profile+Views&color=blueviolet&style=flat-square" />
+</p>
 
 ---
 
-## 🛠 Skills and Tools
-### Programming Languages
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php)
+## 👋 About Me
+
+Hi! I'm **Rafa Khoiron Alif**, a passionate **Web Developer** with a strong interest in **web security**, backend logic, and local server environments.
+
+I enjoy building web applications locally, testing them securely, and exposing them responsibly for demos and experiments.
 
 ---
 
-## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=raaffell&show_icons=true&theme=tokyonight" />
+## 🔗 Profiles & Links
+
+<p align="center">
+  <a href="https://github.com/raaffell">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+## 🧠 Skills & Technologies
+
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+### 🧩 Frameworks & Tools
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+## 🔌 Local Development & Tunneling Workflow
+
+I actively work with **local server environments** and understand the difference between local and public access.
+
+### 🛠 Typical Setup
+- Apache + PHP + MySQL via **XAMPP**
+- Development & testing on `localhost`
+- Secure public exposure using **ngrok**
+
+```bash
+# Access local server
+http://localhost/
+
+# Expose local Apache server
+ngrok http 80

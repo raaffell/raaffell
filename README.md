@@ -22,10 +22,6 @@ I'm **Rafa Khoiron Alif**, a passionate **Web Developer** from Indonesia.
 
 I enjoy building web applications in a **local development environment**, understanding how servers work, and deploying projects safely for demos and testing.
 
-- 🔧 Focused on **local server & backend fundamentals**
-- 🌱 Currently learning **web security basics & deployment**
-- 🚀 Interested in **server-side development and networking**
-
 ---
 
 ## 🧠 Skills & Technologies

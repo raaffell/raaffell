@@ -6,7 +6,7 @@
 <h1 align="center">🔥 Hello, I'm Rafa Khoiron Alif 🔥</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=00E5FF&center=true&vCenter=true&width=1000&lines=Web+Developer;Local+Server+Explorer;Backend+Learner;XAMPP+%26+ngrok+User;From+Indonesia;Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=00E5FF&center=true&vCenter=true&width=1000&lines=Web+Developer;17+Years+Old;Senior+High+School" />
 </p>
 
 <p align="center">
@@ -18,9 +18,9 @@
 ## 👋 About Me
 
 Hi 👋  
-I'm **Rafa Khoiron Alif**, a passionate **Web Developer** from Indonesia.
+I'm **Rafa Khoiron Alif**, a **17 years old Web Developer** and **Senior High School student** from Indonesia.
 
-I enjoy building web applications in a **local development environment**, understanding how servers work, and deploying projects safely for demos and testing.
+I enjoy building web applications in a **local development environment**, understanding how servers work, and learning backend development step by step.
 
 ---
 
@@ -82,7 +82,7 @@ I prefer developing applications **locally first** to fully understand how syste
 - **Editor:** VS Code / Visual Studio  
 - **Version Control:** Git & GitHub  
 
-This approach helps me learn **server behavior, debugging, and deployment flow** more deeply.
+This workflow helps me understand **server behavior, debugging, and backend logic** more deeply.
 
 ---
 

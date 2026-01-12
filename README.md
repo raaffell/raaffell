@@ -1,5 +1,7 @@
 <!-- ================= BANNER ================= -->
-<img src="https://media.giphy.com/media/ehTciPU84hyLtZkfsE/giphy.gif" width="100%" />
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</p>
 
 <h1 align="center">🔥 Hello, I'm Rafa Khoiron Alif 🔥</h1>
 
@@ -11,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=raaffell&label=Profile+Views&color=blueviolet&style=flat-square" />
 </p>
 
-<hr>
+---
 
 ## 👋 About Me
 
@@ -41,6 +43,32 @@ I like building applications locally, testing them carefully, and exposing them 
 ### 🌐 Tunneling & Networking
 <p>
   <img src="https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white" />
+</p>
+
+---
+
+## 🛠 Tools I Use
+<p>
+  <img src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
+</p>
+
+---
+
+## 🔗 Social Media
+
+<p align="center">
+  <a href="https://github.com/raaffell">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.instagram.com/USERNAME_KAMU">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@USERNAME_KAMU">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok" />
+  </a>
 </p>
 
 ---

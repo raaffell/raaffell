@@ -18,7 +18,7 @@
 ## 👋 About Me
 
 Hi 👋  
-I'm **Rafa Khoiron Alif**, a passionate **Web Developer** with a strong interest in **backend logic**, **local server environments**, and **basic web security**.
+I'm **Rafa Khoiron Alif**, a passionate **Web Developer** with a strong interest in **17 yrs old**, **NN AELL**, and **403**.
 
 I enjoy building applications locally, testing them carefully, and exposing them securely for demos and experiments.
 
@@ -84,5 +84,4 @@ I build and test my projects in a **local environment** before exposing them sec
 - Version Control: **GitHub**
 
 ```bash
-# Access local server
-http://localhost/
+

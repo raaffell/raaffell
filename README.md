@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">root@raaffell</h1>
-<h3 align="center">Web Developer | Think • Code • Build</h3>
+<h3 align="center">Web Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF00&center=true&vCenter=true&lines=whoami;Web+Developer;Learning+Everyday;Think+Like+A+Hacker;Access+Granted" />
@@ -18,10 +18,9 @@ $ whoami
 Rafa Khoiron Alif
 
 $ location
-Jambi, Indonesia
+Unknown, Indonesia
 
 $ role
 Web Developer
 
-$ status
-Learning • Building • Improving
+

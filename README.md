@@ -1,37 +1,28 @@
-<h1 align="center">root@raaffell</h1>
-<h3 align="center">Web Developer</h3>
+<img src="https://images.unsplash.com/photo-1519681393784-d120267933ba" width="100%" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raaffell&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+# 👋 Hello and Welcome!
+
+## 😊 About Me
+Hi, I'm **Rafa Khoiron Alif**  
+💻 Web Developer from Indonesia  
+🚀 Interested in backend, security, and web apps
 
 ---
 
-## 👤 whoami
-```bash
-Name     : Rafa Khoiron Alif
-Location : Indonesia
-Role     : Web Developer
+## 🔗 My Profiles
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)
 
+---
+
+## 🛠 Skills and Tools
 ### Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php"/>
-</p>
-
-### Frameworks & Tools
-<p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux"/>
-</p>
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php)
 
 ---
 
 ## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=raaffell&show_icons=true&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=raaffell&show_icons=true&theme=tokyonight" />

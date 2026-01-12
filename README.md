@@ -1,6 +1,6 @@
 <!-- ================= BANNER ================= -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+  <img src="https://media.giphy.com/media/ehTciPU84hyLtZkfsE/giphy.gif" width="100%" />
 </p>
 
 <h1 align="center">🔥 Hello, I'm Rafa Khoiron Alif 🔥</h1>
@@ -18,9 +18,9 @@
 ## 👋 About Me
 
 Hi 👋  
-I'm **Rafa Khoiron Alif**, a passionate **Web Developer** who enjoys working with **local servers**, **backend logic**, and **web security fundamentals**.
+I'm **Rafa Khoiron Alif**, a passionate **Web Developer** with a strong interest in **backend logic**, **local server environments**, and **basic web security**.
 
-I like building applications locally, testing them carefully, and exposing them securely for demos and experiments.
+I enjoy building applications locally, testing them carefully, and exposing them securely for demos and experiments.
 
 ---
 
@@ -73,11 +73,16 @@ I like building applications locally, testing them carefully, and exposing them 
 
 ---
 
-## 🔌 Local Development Workflow
+## 🔌 Local Development & Deployment Workflow
+
+I build and test my projects in a **local environment** before exposing them securely for demos or collaboration.
+
+### 🧱 Local Setup
+- OS: **Windows 11**
+- Server: **Apache + PHP + MySQL (XAMPP)**
+- Editor: **VS Code / Visual Studio**
+- Version Control: **GitHub**
 
 ```bash
-# Run local server
+# Access local server
 http://localhost/
-
-# Expose Apache server using ngrok
-ngrok http 80

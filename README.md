@@ -63,10 +63,10 @@ I enjoy building applications locally, testing them carefully, and exposing them
   <a href="https://github.com/raaffell">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.instagram.com/USERNAME_KAMU">
+  <a href="https://www.instagram.com/aleave__">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.tiktok.com/@USERNAME_KAMU">
+  <a href="https://www.tiktok.com/alleave_">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok" />
   </a>
 </p>

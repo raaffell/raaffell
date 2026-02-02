@@ -1,8 +1,3 @@
-Oke, sorry kalau tadi bikin pusing 😅. Ini kodingan yang persis formatnya (pakai gambar kiri-kanan, ikon devicon, dan grafik pacman), tapi isinya sudah saya ganti jadi **Rafa Khoiron Alif** dan sesuaikan skill kamu (Web Developer, Windows, Kali Linux, dll).
-
-Tinggal copy-paste semua kode di bawah ini ke `README.md`:
-
-```markdown
 <h4 align="center">Hi 👋! My name is Rafa Khoiron Alif, a Web Developer and Student from Indonesia</h4>
 
 ###

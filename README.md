@@ -1,36 +1,83 @@
-🔥 Hello, I'm Rafa Khoiron Alif 🔥
+Oke, sorry kalau tadi bikin pusing 😅. Ini kodingan yang persis formatnya (pakai gambar kiri-kanan, ikon devicon, dan grafik pacman), tapi isinya sudah saya ganti jadi **Rafa Khoiron Alif** dan sesuaikan skill kamu (Web Developer, Windows, Kali Linux, dll).
 
+Tinggal copy-paste semua kode di bawah ini ke `README.md`:
 
+```markdown
+<h4 align="center">Hi 👋! My name is Rafa Khoiron Alif, a Web Developer and Student from Indonesia</h4>
 
+###
 
-👋 About Me
-Hi 👋
-I'm Rafa Khoiron Alif, a 17 years old Web Developer and Senior High School student from Indonesia.
+<img align="right" height="150" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"  />
 
-I enjoy building web applications in a local development environment, understanding how servers work, and learning backend development step by step.
+###
 
-🧠 Skills & Technologies
-💻 Programming Languages
+<img align="left" height="150" src="https://github.com/images/mona-whisper.gif"  />
 
+###
 
-🧩 Databases & Servers
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="38" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="38" alt="php logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="38" alt="mysql logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="python logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="38" alt="nodejs logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="38" alt="git logo"  />
+</div>
 
+###
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" height="100" alt="googlecloud logo"  />
+  <img width="18" />
+</div>
 
-🌐 Networking & Tunneling
+<div align="center">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="46" alt="linux logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali-linux/kali-linux-original.svg" height="46" alt="kali linux logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="46" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="46" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="46" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="46" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" height="46" alt="visualstudio logo"  />
+</div>
 
+###
 
-🛠 Tools I Use
+<br clear="both">
 
+<div align="center">
+  <a href="https://www.instagram.com/aleave__" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.tiktok.com/alleave_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tiktok/default.svg" width="47" height="35" alt="tiktok logo"  />
+  </a>
+  <a href="https://github.com/raaffell" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="47" height="35" alt="github logo"  />
+  </a>
+</div>
 
-🔗 Social Media
-  
+###
 
-🔌 Local Development Workflow
-I prefer developing applications locally first to fully understand how systems work before deployment.
+<br clear="both">
 
-🧱 Local Setup
-OS: Windows 11 & Kali Linux
-Server: Apache, PHP, MySQL (XAMPP)
-Editor: VS Code / Visual Studio
-Version Control: Git & GitHub
-This workflow helps me understand server behavior, debugging, and backend logic more deeply.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cedsbstn/Cedsbstn/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cedsbstn/Cedsbstn/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Cedsbstn/Cedsbstn/output/pacman-contribution-graph.svg">
+</picture>
+```

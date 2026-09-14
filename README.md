@@ -35,22 +35,22 @@
 </div>
 
 <div align="center">  
-  <!-- Kali Linux -->
+  
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kalilinux.svg" height="46" alt="kali linux logo"  />
   <img width="8" />
-  <!-- Windows -->
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="46" alt="windows8 logo"  />
   <img width="12" />
-  <!-- Nginx -->
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="46" alt="nginx logo"  />
   <img width="12" />
-  <!-- Ngrok -->
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ngrok/ngrok-original.svg" height="46" alt="ngrok logo"  />
   <img width="12" />
-  <!-- VS Code -->
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="46" alt="vscode logo"  />
   <img width="12" />
-  <!-- Visual Studio -->
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" height="46" alt="visualstudio logo"  />
 </div>
 
@@ -71,7 +71,7 @@
 
 <br clear="both">
 
-<!-- Pacman Graph -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cedsbstn/Cedsbstn/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cedsbstn/Cedsbstn/output/pacman-contribution-graph.svg">

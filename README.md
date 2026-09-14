@@ -1,4 +1,4 @@
-<h4 align="center">Hi 👋! My name is Rafa Khoiron Alif, a Web Developer and Student from Indonesia</h4>
+<h4 align="center">Hi 👋! My name is Rafa Khoiron Alif, a Student from Indonesia</h4>
 
 ###
 
